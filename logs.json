@@ -1,0 +1,6 @@
+[
+    {"time": "10:00", "level": "INFO", "message": "Start system"},
+    {"time": "10:01", "level": "ERROR", "message": "Crash detected"},
+    {"time": "10:02", "level": "WARNING", "message": "Low memory"},
+    {"time": "10:03", "level": "ERROR", "message": "Timeout error"}
+]
